@@ -19,7 +19,7 @@ Chatbot Zalo cá nhân được xây dựng bằng thư viện không chính th�
 ## 📂 Cấu trúc thư mục mẫu
 
 ```
-Baodubai_ZaloChat/
+EMPHAT-V2/
 ├── App/
 │   ├── AutoSend.json       # Setup AutoSend
 │   ├── Cookie.json         # Setup Cookie Zalo
