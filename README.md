@@ -3,7 +3,7 @@
 Chatbot Zalo cá nhân được xây dựng bằng thư viện không chính thức [zca-js](https://tdung.gitbook.io/zca-js).
 
 > 🛑 **Lưu ý:** Sử dụng `zca-js` có thể vi phạm chính sách của Zalo.
-
+> 🛑 **Lưu ý:** Đây chỉ là soure mẫu nên sẽ thiếu nhiều tính năng cần file full liên hệ mih để lấy nhé!!!!!
 ---
 
 ## 🚀 Tính năng chính
