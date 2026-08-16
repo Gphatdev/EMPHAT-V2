@@ -1,4 +1,4 @@
-# GPHAT DEV_ZaloChat
+# EMPHAT V2
 
 Chatbot Zalo cá nhân được xây dựng bằng thư viện không chính thức [zca-js](https://tdung.gitbook.io/zca-js).
 
@@ -47,8 +47,8 @@ Baodubai_ZaloChat/
 ### 1. Clone repo
 
 ```bash
-git clone https://github.com/baodubaiiii/Baodubai_ZaloChat.git
-cd Baodubai_ZaloChat
+git clone https://github.com/Gphatdev/EMPHAT-V2.git
+cd EMPHAT-V2
 ```
 
 ### 2. Cài dependencies
@@ -129,5 +129,5 @@ Dự án này sử dụng license `MIT`. Bạn có thể tự do fork, chỉnh s
 ## 👤 Tác giả
 
 **Baodubai**  
-📬 GitHub: [baodubai](https://github.com/baodubaiiii)  
+📬 GitHub: [Gphatdev](https://github.com/Gphatdev)  
 
